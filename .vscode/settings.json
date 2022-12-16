@@ -1,0 +1,15 @@
+{
+    "rest-client.environmentVariables": {
+        "development": {
+            "url": "http://192.168.15.7:4000",
+            "apiToken": "62317d82-cf85-4e24-be19-a0decc349510",
+            "appToken": "c0d22183-9417-4dda-a5be-0c0ce5808680",
+            "accessToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjZjMzVlOTJjZGNmNDAwMWJhYjdhYzMiLCJpYXQiOjE2NTMzMTI0NDksImV4cCI6MTY1MzMzMDQ0OX0.qNAYH-jgxbW0XImjHpmzms3rOwTUPrtlCvkkF7I7giA",
+            "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2Nlc3NUb2tlbiI6ImV5SmhiR2NpT2lKSVV6STFOaUlzSW5SNWNDSTZJa3BYVkNKOS5leUoxYzJWeVNXUWlPaUkyTWpaa09HTmhNekl3TkRNME1XVXpaRGMwTURObE5EQWlMQ0pwWVhRaU9qRTJOVEl4TURjeE1EWXNJbVY0Y0NJNk1UWTFNakV4TURjd05uMC5jWU1OaDA0Y3JkMGIwaWt2TUhwaTE4R3plQ2FpdjVxaEV4TkFIdVNuZmF3IiwiaWF0IjoxNjUyMTA3MTA2LCJleHAiOjE2NTI5NzExMDZ9.AapABmHpgezAjRNdLYtGV-wxFSAY5eJv_74TRYEMA0Y"
+        }
+    },
+    "cSpell.words": [
+        "middlewares",
+        "Protheus"
+    ]
+}

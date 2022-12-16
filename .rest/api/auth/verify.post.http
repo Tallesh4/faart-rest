@@ -1,0 +1,8 @@
+POST {{url}}/api/verify/6273c7b9ebdaac8fb0feb259
+Content-Type: application/json
+x-api-token: {{apiToken}}
+
+{
+    "token": "32082cb9398a6bd98c51d708436c68b06e1185076fe2f9b541c87a7640ee58b3d066079176b3c9a1492bf88d8724cc6555b2d9f2e7d7b804cdefad4c60d9b7e5",
+    "code": "916615"
+}

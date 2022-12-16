@@ -1,0 +1,8 @@
+POST {{url}}/app/login
+x-app-token: {{apiToken}}
+Content-Type: application/json
+
+{
+    "username": "admin",
+    "password": "123456789"
+}

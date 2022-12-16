@@ -1,0 +1,3 @@
+GET {{url}}/api/goal-suggestions
+x-api-token: {{apiToken}}
+Authorization: Bearer {{accessToken}}
